@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+<h1 align="center">Linguagens & Ferramentas</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -19,16 +19,16 @@
 </div>
 
 ###
+<h2 align="left">⭐ Sobre mim</h2>
+<p align="left">Olá! Meu nome é William Santos de Santana, tenho 19 anos e sou uma pessoa altamente comunicativa, com uma grande paixão por aprender e crescer. Com habilidades avançadas em inglês, sempre busco oportunidades que me desafiem a desenvolver novas competências, seja na área profissional ou pessoal.
 
-<p align="left">Sou apaixonado por Machine Learning e Inteligência Artificial e estou em busca de oportunidades para trabalhar com essas áreas!  Tenho interesse em vagas de suporte técnico e/ou programação, e estou aberto a aprender novas linguagens de programação. Aprender é algo que me motiva muito!</p>
+Sou organizado, eficiente e determinado, com um forte senso de liderança. Acredito que trabalhar de maneira estruturada e com foco nos objetivos é a chave para alcançar resultados significativos. Essa abordagem me permite ser proativo na resolução de problemas e no gerenciamento de tarefas, sempre buscando melhorar processos e entregar resultados de alto impacto.
 
-###
+Minha grande ambição é ingressar no setor de tecnologia, onde posso aplicar minhas habilidades, contribuir com equipes diversas e participar de projetos inovadores que façam a diferença. Estou constantemente em busca de novas oportunidades para expandir meus conhecimentos e me tornar um profissional mais completo e preparado para os desafios da área.</p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/themarionette08">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=themarionette08&width=1000&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
+<a href="https://open.spotify.com/user/themarionette08">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=themarionette08&width=1000&count=5" alt="Spotify recently played"  />
+</a>
 
 ###
 
