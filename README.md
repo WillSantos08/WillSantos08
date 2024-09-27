@@ -24,7 +24,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/WillSantos08/WillSantos08/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/themarionette08">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=themarionette08&width=1000&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
