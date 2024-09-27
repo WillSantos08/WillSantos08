@@ -20,9 +20,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=WillSantos08&theme=dark" alt="Layout with last medium posts"  />
-</div>
+<p align="left">Sou apaixonado por Machine Learning e Inteligência Artificial e estou em busca de oportunidades para trabalhar com essas áreas!  Tenho interesse em vagas de suporte técnico e/ou programação, e estou aberto a aprender novas linguagens de programação. Aprender é algo que me motiva muito!</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/WillSantos08/WillSantos08/output/snake.svg" alt="Snake animation" />
 
 ###
 
