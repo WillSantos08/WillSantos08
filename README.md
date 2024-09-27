@@ -20,7 +20,7 @@
 
 ###
 <h2 align="left">⭐ Sobre mim</h2>
-<p align="left">Olá! Meu nome é William Santos de Santana, tenho 19 anos e sou uma pessoa altamente comunicativa, com uma grande paixão por aprender e crescer. Com habilidades avançadas em inglês, sempre busco oportunidades que me desafiem a desenvolver novas competências, seja na área profissional ou pessoal.
+<p align="left">Meu nome é William Santos de Santana, tenho 20 anos e sou uma pessoa altamente comunicativa, com uma grande paixão por aprender e crescer. Com habilidades avançadas em inglês, sempre busco oportunidades que me desafiem a desenvolver novas competências, seja na área profissional ou pessoal.
 
 Sou organizado, eficiente e determinado, com um forte senso de liderança. Acredito que trabalhar de maneira estruturada e com foco nos objetivos é a chave para alcançar resultados significativos. Essa abordagem me permite ser proativo na resolução de problemas e no gerenciamento de tarefas, sempre buscando melhorar processos e entregar resultados de alto impacto.
 
