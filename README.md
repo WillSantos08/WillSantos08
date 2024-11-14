@@ -32,6 +32,13 @@ Sou organizado, eficiente e determinado, com um forte senso de liderança. Acred
 
 Minha grande ambição é ingressar no setor de tecnologia, onde posso aplicar minhas habilidades, contribuir com equipes diversas e participar de projetos inovadores que façam a diferença. Estou constantemente em busca de novas oportunidades para expandir meus conhecimentos e me tornar um profissional mais completo e preparado para os desafios da área.</p>
 
+<h2 align="left">🇺🇸 About me</h2>
+<p align="left">My name is William Santos de Santana, I am 20 years old, and I am a highly communicative person with a great passion for learning and growing. With advanced English skills, I am always seeking opportunities that challenge me to develop new competencies, whether professionally or personally.
+
+I am organized, efficient, and determined, with a strong sense of leadership. I believe that working in a structured way with a focus on objectives is the key to achieving significant results. This approach allows me to be proactive in problem-solving and task management, always aiming to improve processes and deliver high-impact results.
+
+My great ambition is to enter the technology sector, where I can apply my skills, contribute to diverse teams, and participate in innovative projects that make a difference. I am constantly seeking new opportunities to expand my knowledge and become a more complete and well-prepared professional for the challenges in the field.</p>
+
 <a href="https://open.spotify.com/user/themarionette08">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=themarionette08&width=1000&count=5" alt="Spotify recently played"  />
 </a>
