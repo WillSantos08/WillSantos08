@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/790263969382268928/1289067509047103551/Banner.png?ex=6733756b&is=673223eb&hm=a950b22117223f05e53ae1a6a6396e6b4383a9217db5436a69b01429716331f5&"/>
+  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4e61f75d-6659-462a-b770-1477e27c53b5/dilpud0-ade79cc7-9843-49f7-92be-33e9f84f82b5.png/v1/fill/w_1280,h_334/banner_by_themari0nette08_dilpud0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzM0IiwicGF0aCI6IlwvZlwvNGU2MWY3NWQtNjY1OS00NjJhLWI3NzAtMTQ3N2UyN2M1M2I1XC9kaWxwdWQwLWFkZTc5Y2M3LTk4NDMtNDlmNy05MmJlLTMzZTlmODRmODJiNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5WhA6nQmx-UMKF0Rdvh9Ymr4h10mS7NPTGj6JBYX_dM"/>
 </div>
 
 ###
