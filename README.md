@@ -26,18 +26,9 @@
 
 ###
 <h2 align="left">⭐ Sobre mim</h2>
-<p align="left">Meu nome é William Santos de Santana, tenho 20 anos e sou uma pessoa altamente comunicativa, com uma grande paixão por aprender e crescer. Com habilidades avançadas em inglês, sempre busco oportunidades que me desafiem a desenvolver novas competências, seja na área profissional ou pessoal.
+<p align="left">Eu sou William, tenho 21 anos e sou apaixonado por aprendizado, comunicação e crescimento constante. Com proficiência em inglês e habilidades interpessoais afiadas busco oportunidades que desafiem minha evolução pessoal e profissional.
 
-Sou organizado, eficiente e determinado, com um forte senso de liderança. Acredito que trabalhar de maneira estruturada e com foco nos objetivos é a chave para alcançar resultados significativos. Essa abordagem me permite ser proativo na resolução de problemas e no gerenciamento de tarefas, sempre buscando melhorar processos e entregar resultados de alto impacto.
-
-Minha grande ambição é ingressar no setor de tecnologia, onde posso aplicar minhas habilidades, contribuir com equipes diversas e participar de projetos inovadores que façam a diferença. Estou constantemente em busca de novas oportunidades para expandir meus conhecimentos e me tornar um profissional mais completo e preparado para os desafios da área.</p>
-
-<h2 align="left">🇺🇸 About me</h2>
-<p align="left">My name is William Santos de Santana, I am 20 years old, and I am a highly communicative person with a great passion for learning and growing. With advanced English skills, I am always seeking opportunities that challenge me to develop new competencies, whether professionally or personally.
-
-I am organized, efficient, and determined, with a strong sense of leadership. I believe that working in a structured way with a focus on objectives is the key to achieving significant results. This approach allows me to be proactive in problem-solving and task management, always aiming to improve processes and deliver high-impact results.
-
-My great ambition is to enter the technology sector, where I can apply my skills, contribute to diverse teams, and participate in innovative projects that make a difference. I am constantly seeking new opportunities to expand my knowledge and become a more complete and well-prepared professional for the challenges in the field.</p>
+Tenho com objetivo ingressar na área de tecnologia, colaborar com equipes diversas e contribuir para projetos inovadores. Sempre em constante evolução, sempre em busca de conhecimento para me tornar um profissional completo e preparado para os desafios do setor.</p>
 
 <a href="https://open.spotify.com/user/themarionette08">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=themarionette08&width=1000&count=5" alt="Spotify recently played"  />
