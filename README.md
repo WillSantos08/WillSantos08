@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-© William Santos, 2025
+© William Santos, 2026
 </p>
