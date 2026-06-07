@@ -1,9 +1,9 @@
-<h1 align="center">William Santos de Santana</h1>
+<h1 align="center">William Santos</h1>
 
 <p align="center">
-🎓 Estudante de Ciências da Computação <br>
-💻 Front-end • UI/UX • Design <br>
-🎨 Apaixonado por interfaces e experiências visuais
+🎓 Computer Science Student <br>
+💻 Front-end Developer & Machine Learning Enthusiast <br>
+🎨 Building intuitive interfaces and intelligent solutions
 </p>
 
 <p align="center">
@@ -20,26 +20,59 @@
 
 ---
 
-### 🧠 Sobre mim
+## 👨‍💻 About Me
 
 ```text
-🎓 Estudante de Ciência da Computação
-💻 Desenvolvimento Front-end e UI/UX
-🎨 Experiência com design gráfico e interfaces
-📚 Sempre aprendendo algo novo
+🎓 Computer Science Student
+💻 Focused on Front-end Development
+🤖 Exploring Machine Learning and Artificial Intelligence
+🎨 Passionate about UI/UX Design and User Experience
+📚 Constantly learning new technologies and best practices
 ```
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,python,lua,pytorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,python,pytorch,mysql,java,lua,git,github,androidstudio,figma,photoshop,illustrator,ae,pr&perline=6" />
+</p>
+
+<p align="center">
+  Front-end • Machine Learning • Mobile Development • UI/UX • Design
 </p>
 
 ---
 
-### 🎧 O que estou ouvindo agora
+## 🌱 Currently Learning
+
+```text
+📌 Advanced Front-end Development
+📌 Machine Learning with PyTorch
+📌 Data Structures and Algorithms
+📌 Software Engineering Best Practices
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WillSantos08&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillSantos08&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=WillSantos08&theme=dark&hide_border=true">
+</p>
+
+---
+
+## 🎧 Currently Listening To
 
 <p align="center">
   <a href="https://open.spotify.com/user/themarionette08">
@@ -50,12 +83,9 @@
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=WillSantos08&show_icons=true&theme=dark&locale=pt-br">
-  <img height="150" src="https://streak-stats.demolab.com?user=WillSantos08&theme=dark">
+  <i>"Transforming ideas into experiences through code and intelligent systems."</i>
 </p>
 
----
-
 <p align="center">
-© William Santos, 2026
+© William Santos • 2026
 </p>
