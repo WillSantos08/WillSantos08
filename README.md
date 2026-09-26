@@ -76,16 +76,6 @@
 
 ---
 
-## 🎧 Currently Listening To
-
-<p align="center">
-  <a href="https://open.spotify.com/user/themarionette08">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=themarionette08&width=600&count=5" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Transforming ideas into experiences through code and intelligent systems."</i>
 </p>
